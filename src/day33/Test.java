@@ -1,6 +1,6 @@
 package day33;
 
-public class Main {
+public class Test {
     public static void main(String[] args) {
         System.out.println("Hello Github..");
     }
